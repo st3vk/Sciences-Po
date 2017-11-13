@@ -1,6 +1,9 @@
 ---
 ---
 
+$header-heading-color: white;
+$reza : 100%;
+
 @import "{{ site.theme }}";
 
 .page-header {
@@ -8,7 +11,7 @@
   text-align: left;
   background-color: $header-bg-color;
   background-image: url("../cover.jpg");
-  width: 50%;
+  width: $reza;
 
   @include large {
     padding: 5rem 6rem;
