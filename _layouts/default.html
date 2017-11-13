@@ -14,8 +14,10 @@
       <h1 class="project-name">{{ site.title | default: site.github.repository_name }}</h1>
       <h2 class="project-tagline">{{ site.description | default: site.github.project_tagline }}</h2>
       
+      {{ site.baseurl}}
+      
       {% for item in site.menu %}
-        <a href="{{site.github.repository_name}}/{{ item.pagename }}" class="btn">{{item.name}}</a>
+        <a href="{{site.github.repository_name}}/{{ item.pagename }}/reza" class="btn">{{item.name}}</a>
       {% endfor %}
       
       {% if site.show_downloads %}
