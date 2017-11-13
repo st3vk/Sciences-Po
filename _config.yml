@@ -3,7 +3,6 @@ title: Group 00
 description: A Great Transition project
 menu: [
   {'name': 'Home', 'pagename': ''}, 
-  {'name': 'Videos', 'pagename': 'videos'},
-  {'name': 'Contact us', 'pagename': 'contact'},
+  {'name': 'Resources', 'pagename': 'resources'},
   {'name': 'About us', 'pagename': 'about'},
 ]
