@@ -1,12 +1,13 @@
 ---
 ---
+$cover-image: "../cover.jpg";
+
 
 @import "{{ site.theme }}";
 
 .page-header {
   color: $header-heading-color;
   text-align: left;
-  background-color: white;
-  background-image: url("../cover.jpg");
+  background-image: url($cover-image);
   background-size: cover;
 }
