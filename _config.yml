@@ -2,7 +2,7 @@ theme: jekyll-theme-cayman
 title: Group 00
 description: A Great Transition project
 menu: [
-  {'name': 'Home', 'pagename': 'index'}, 
+  {'name': 'Home', 'pagename': '/'}, 
   {'name': 'Resources', 'pagename': 'resources'},
   {'name': 'About us', 'pagename': 'about'},
 ]
