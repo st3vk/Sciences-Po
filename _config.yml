@@ -2,9 +2,9 @@ theme: jekyll-theme-cayman
 title: Group 00
 description: A Great Transition project
 menu: [
-  {'Home': 'https://thegreattransition.github.io/group00/'}, 
-  {'Videos': 'https://thegreattransition.github.io/group00/#'},
-  {'Contact us': 'https://thegreattransition.github.io/group00/#'},
-  {'About us': 'https://thegreattransition.github.io/group00/#'},
+  {'name': 'Home', 'url': 'https://thegreattransition.github.io/group00/'}, 
+  {'name': 'Videos': 'url': 'https://thegreattransition.github.io/group00/#'},
+  {'name': 'Contact us': 'url': 'https://thegreattransition.github.io/group00/#'},
+  {'name': 'About us': 'url': 'https://thegreattransition.github.io/group00/#'},
 ]
 nname: reza
