@@ -3,8 +3,8 @@ title: Group 00
 description: A Great Transition project
 menu: [
   {'name': 'Home', 'url': 'https://thegreattransition.github.io/group00/'}, 
-  {'name': 'Videos': 'url': 'https://thegreattransition.github.io/group00/#'},
-  {'name': 'Contact us': 'url': 'https://thegreattransition.github.io/group00/#'},
-  {'name': 'About us': 'url': 'https://thegreattransition.github.io/group00/#'},
+  {'name': 'Videos', 'url': 'https://thegreattransition.github.io/group00/#'},
+  {'name': 'Contact us', 'url': 'https://thegreattransition.github.io/group00/#'},
+  {'name': 'About us', 'url': 'https://thegreattransition.github.io/group00/#'},
 ]
 nname: reza
