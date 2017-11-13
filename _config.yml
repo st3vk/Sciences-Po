@@ -1,5 +1,10 @@
 theme: jekyll-theme-cayman
 title: Group 00
 description: A Great Transition project
-menu: ['Home', 'Videos', 'Contact us' ,'About us']
+menu: [
+  {'Home': 'https://thegreattransition.github.io/group00/'}, 
+  {'Videos': 'https://thegreattransition.github.io/group00/#'},
+  {'Contact us': 'https://thegreattransition.github.io/group00/#'},
+  {'About us': 'https://thegreattransition.github.io/group00/#'},
+]
 nname: reza
