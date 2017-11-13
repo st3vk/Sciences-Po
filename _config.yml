@@ -1,7 +1,6 @@
 theme: jekyll-theme-cayman
 title: Group 00
 description: A Great Transition project
-cover-image: https://pbs.twimg.com/profile_banners/903380300620849153/1504220447/1500x500
 menu: [
   {'name': 'Home', 'pagename': 'index'}, 
   {'name': 'Resources', 'pagename': 'resources'},
