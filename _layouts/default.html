@@ -13,11 +13,8 @@
     <section class="page-header">
       <h1 class="project-name">{{ site.title | default: site.github.repository_name }}</h1>
       <h2 class="project-tagline">{{ site.description | default: site.github.project_tagline }}</h2>
-      
-      reza  
-      {% for i in (1..10) %}
-        {{i}}
-        <a href="{{ site.github.repository_url }}" class="btn">View oooooon GitHub {{i}}</a>
+      {% for item in site.menu %}
+        <a href="{{ site.github.repository_url }}" class="btn">{{item}}</a>
       {% endfor %}
 
       {% if site.show_downloads %}
