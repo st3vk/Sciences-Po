@@ -90,7 +90,9 @@ html {
   top: -69px;
   left: 10px;
 }
-
+.page-header .project-info * {
+  margin: 0px;
+}
 .project-name span {
   background-color: unset;
 }
