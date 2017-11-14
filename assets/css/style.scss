@@ -1,6 +1,5 @@
 ---
 ---
-$cover-image: url('../images/cover.jpg');
 // Breakpoints
 $large-breakpoint: 64em !default;
 $medium-breakpoint: 42em !default;
@@ -8,6 +7,8 @@ $medium-breakpoint: 42em !default;
 // Headers
 $header-heading-color: #fff !default;
 $header-bg-color: #e6142d !default;
+$header-title-bg: ;
+$header-description-bg: ;
 
 // Text
 // $section-headings-color: #159957 !default;
@@ -26,12 +27,15 @@ $hr-border-color: #eff0f1 !default;
 
 .page-header {
   text-align: left;
-  background-image: $cover-image;
+  background-image: url('../images/cover.jpg');
   background-repeat: round;
 }
 
-.project-name span, .project-tagline span {
-  background-color: black;
+.project-name span {
+  background-color: unset;
+}
+.project-tagline span {
+  background-color: unset;
 }
 
 .btn {
