@@ -5,8 +5,8 @@
  */
 
 /*!
- * Generated using the Bootstrap Customizer (http://getbootstrap.com/docs/3.3/customize/?id=e642fe9f3776d762e3d3d493f8238ce3)
- * Config saved to config.json and https://gist.github.com/e642fe9f3776d762e3d3d493f8238ce3
+ * Generated using the Bootstrap Customizer (http://getbootstrap.com/docs/3.3/customize/?id=0433ee0a4068b7c95d21e26d744fc3c0)
+ * Config saved to config.json and https://gist.github.com/0433ee0a4068b7c95d21e26d744fc3c0
  */
 /*!
  * Bootstrap v3.3.7 (http://getbootstrap.com)
@@ -809,6 +809,41 @@ select[multiple].input-lg {
     padding-top: 6px;
     font-size: 12px;
   }
+}
+.fade {
+  opacity: 0;
+  -webkit-transition: opacity 0.15s linear;
+  -o-transition: opacity 0.15s linear;
+  transition: opacity 0.15s linear;
+}
+.fade.in {
+  opacity: 1;
+}
+.collapse {
+  display: none;
+}
+.collapse.in {
+  display: block;
+}
+tr.collapse.in {
+  display: table-row;
+}
+tbody.collapse.in {
+  display: table-row-group;
+}
+.collapsing {
+  position: relative;
+  height: 0;
+  overflow: hidden;
+  -webkit-transition-property: height, visibility;
+  -o-transition-property: height, visibility;
+     transition-property: height, visibility;
+  -webkit-transition-duration: 0.35s;
+  -o-transition-duration: 0.35s;
+     transition-duration: 0.35s;
+  -webkit-transition-timing-function: ease;
+  -o-transition-timing-function: ease;
+     transition-timing-function: ease;
 }
 .nav {
   margin-bottom: 0;
