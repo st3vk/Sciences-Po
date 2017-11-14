@@ -29,4 +29,10 @@ $hr-border-color: #eff0f1 !default;
   text-align: left;
   background-image: $cover-image;
   background-size: cover;
+  height: 300px;
+}
+
+.btn {
+  color: rgba(255, 255, 255, 1);
+  background-color: rgba(255, 255, 255, 0.8);
 }
