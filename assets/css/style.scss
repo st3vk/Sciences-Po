@@ -30,6 +30,10 @@ $hr-border-color: #eff0f1 !default;
   background-repeat: round;
 }
 
+.project-name, .project-tagline {
+  background-color: black;
+}
+
 .btn {
   color: rgba(255, 255, 255, 1);
   background-color: rgba(255, 255, 255, 0.8);
