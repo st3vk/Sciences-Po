@@ -24,7 +24,7 @@ $hr-border-color: #eff0f1 !default;
 @import "{{ site.theme }}";
 
 html {
-  font-size: 62.5%;
+  font-size: 100%;
 }
 
 .navbar {
@@ -49,9 +49,4 @@ html {
 }
 .project-tagline span {
   background-color: unset;
-}
-
-.btn {
-  color: rgba(255, 255, 255, 0.7);
-  background-color: rgba(255, 255, 255, 0.08);
 }
