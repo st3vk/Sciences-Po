@@ -81,17 +81,8 @@ html {
 .page-header .project-info {
   display: inline-block;
   position: relative;
-  // width: 100%;
-  // height: 61px;
-  // border-bottom: 1px solid rgba(0,0,0,0.25);
-  // padding: 0 10rem;
-  // padding-left: calc(25% + 25px);
-  // position: relative;
   top: -69px;
   left: 10px;
-}
-.page-header .project-info * {
-  margin: 0px;
 }
 .project-name span {
   background-color: unset;
