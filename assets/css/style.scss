@@ -6,7 +6,8 @@ $medium-breakpoint: 42em !default;
 
 // Headers
 $header-heading-color: #fff !default;
-$header-bg-color: #e6142d !default;
+// $header-bg-color: #e6142d !default;
+$header-bg-color: white !default;
 $header-logo-border-color: black;
 
 // Text
@@ -57,7 +58,7 @@ html {
 }
 
 .page-header .cover {
-  margin: -5rem -6rem;
+  margin: -5rem -6rem -7rem -6rem;
   width: calc(100% + 12rem);
   height: 300px;
 
