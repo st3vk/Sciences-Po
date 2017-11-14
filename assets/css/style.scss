@@ -44,6 +44,14 @@ html {
   height: 350px;
 }
 
+.page-header .logo {
+  position: relative;
+  left: 10px;
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+}
+
 .project-name span {
   background-color: unset;
 }
