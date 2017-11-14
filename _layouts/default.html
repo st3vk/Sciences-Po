@@ -36,10 +36,10 @@
 
     <section class="page-header">
 
+      <img src="{{ '/assets/images/cover.jpg' | relative_url }}" class="cover">
+
       <h1 class="project-name">{{ site.title | default: site.github.repository_name }}</h1>
       <h2 class="project-tagline">{{ site.description | default: site.github.project_tagline }}</h2>
-
-      <img src="{{ '/assets/images/cover.jpg' | relative_url }}" class="cover">
 
       {% for item in site.menu %}
         <a href="{{ item.pagename }}" class="btn">{{ item.name }}</a>
@@ -49,6 +49,7 @@
         <a href="{{ site.github.zip_url }}" class="btn">Download .zip</a>
         <a href="{{ site.github.tar_url }}" class="btn">Download .tar.gz</a>
       {% endif %}
+
     </section>
 
     <section class="main-content">
