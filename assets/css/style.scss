@@ -45,17 +45,17 @@ html {
 }
 
 .logo {
-  position: absolute;
-  left: 9vw;
   width: 200px;
   height: 200px;
   border-radius: 50%;
 }
 
 .project-info {
-  position: absolute;
-  left: 9vw;
   text-align: center;
+  display: inline-block;
+  position: relative;
+  top: 40px;
+  left: 20px;
 }
 
 .project-name span {
