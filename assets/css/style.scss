@@ -52,7 +52,6 @@ html {
 }
 
 .project-info {
-  text-align: center;
   display: inline-block;
   position: relative;
   top: 40px;
@@ -64,4 +63,11 @@ html {
 }
 .project-tagline span {
   background-color: unset;
+}
+
+@media (max-width: 992px) {
+  .logo {
+    width: 150px;
+    height: 150px;
+  }
 }
