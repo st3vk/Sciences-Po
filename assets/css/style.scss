@@ -26,16 +26,15 @@ $hr-border-color: #eff0f1 !default;
 @import "{{ site.theme }}";
 
 .page-header {
+  padding: 0;
   text-align: left;
   background-image: $cover-image;
   background-size: cover;
-  height: 300px;
 }
 
 .page-header .cover {
   width: 100%;
   margin-bottom: 0;
-  height: 300px;
 }
 
 .page-header .avatar {
