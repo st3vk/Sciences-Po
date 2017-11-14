@@ -7,6 +7,7 @@ $medium-breakpoint: 42em !default;
 // Headers
 $header-heading-color: #fff !default;
 $header-bg-color: #e6142d !default;
+$header-logo-border-color: black;
 
 // Text
 // $section-headings-color: #159957 !default;
@@ -39,7 +40,7 @@ html {
   margin: 7.5px;
   width: 35px;
   height: 35px;
-  border: none;
+  border: 1px solid rgba(0,0,0,0.25);
 }
 
 .page-header {
@@ -53,7 +54,7 @@ html {
   width: 200px;
   height: 200px;
   border-radius: 50%;
-  border: 5px solid black;
+  border: 5px solid $header-logo-border-color;
 }
 
 .project-info {
@@ -74,5 +75,6 @@ html {
   .logo {
     width: 150px;
     height: 150px;
+    border: 3px solid $header-logo-border-color;
   }
 }
