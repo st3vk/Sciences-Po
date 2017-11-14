@@ -84,12 +84,11 @@ html {
   top: -69px;
   left: 10px;
 }
-.project-name span {
-  background-color: unset;
+.project-name {
+  text-shadow: 1px 1px black;
 }
-.project-tagline span {
-  background-color: unset;
-  color: red;
+.project-tagline {
+  color: $section-headings-color;
 }
 
 @media (max-width: 992px) {

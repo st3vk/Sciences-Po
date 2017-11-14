@@ -40,8 +40,8 @@
       <div class="content">
         <img src="{{ '/assets/images/logo.jpg' | relative_url }} " class="logo">
         <div class="project-info">
-          <h1 class="project-name"><span>{{ site.title | default: site.github.repository_name }}</span></h1>
-          <h2 class="project-tagline"><span>{{ site.description | default: site.github.project_tagline }}</span></h2>
+          <h1 class="project-name">{{ site.title | default: site.github.repository_name }}</h1>
+          <h2 class="project-tagline">{{ site.description | default: site.github.project_tagline }}</h2>
         </div>
 
         {% if site.show_downloads %}
