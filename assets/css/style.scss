@@ -23,7 +23,11 @@ $hr-border-color: #eff0f1 !default;
 
 @import "{{ site.theme }}";
 
+.navbar {
+  margin: 0;
+}
 .page-header {
+  margin: 0;
   padding: 0;
   text-align: left;
 }
