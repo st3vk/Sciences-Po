@@ -50,7 +50,8 @@ html {
 }
 
 .page-header {
-  margin-top: 0;
+  margin: 0;
+  padding: 0;
   text-align: left;
   // background-image: url('../images/cover.jpg');
   background-image: none;
@@ -58,11 +59,9 @@ html {
 }
 
 .page-header .cover {
-  margin: -5rem -6rem -7rem -6rem;
-  width: calc(100% + 12rem);
+  margin-bottom: : -7rem;
+  width: 100% ;
   height: 300px;
-
-  z-index: -1;
 }
 
 .page-header .logo {
@@ -84,6 +83,7 @@ html {
 }
 .project-tagline span {
   background-color: unset;
+  color: red;
 }
 
 @media (max-width: 992px) {
