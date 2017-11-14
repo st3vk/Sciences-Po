@@ -37,6 +37,7 @@ html {
   border-radius: 0;
 }
 .navbar-nav .logo {
+  float: left;
   margin: 7.5px;
   width: 35px;
   height: 35px;
@@ -50,14 +51,14 @@ html {
   background-repeat: round;
 }
 
-.logo {
+.page-header .logo {
   width: 200px;
   height: 200px;
   border-radius: 50%;
   border: 5px solid $header-logo-border-color;
 }
 
-.project-info {
+.page-header .project-info {
   display: inline-block;
   position: relative;
   top: 40px;
