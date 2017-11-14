@@ -14,7 +14,6 @@
     <nav class="navbar navbar-default">
       <div class="container-fluid">
         <div class="navbar-header">
-          <img src="https://pbs.twimg.com/profile_images/903658777295163392/afySJpM5_400x400.jpg" class="logo">
           <a href="#">
             <img src="https://pbs.twimg.com/profile_images/903658777295163392/afySJpM5_400x400.jpg" class="logo">
             <span class="navbar-brand">The Great Transition Catalogue</span>
@@ -37,9 +36,8 @@
     </nav>
 
     <section class="page-header">
-      <div class="cover">
-        <img src="{{ '/assets/images/cover.jpg' | relative_url }} ">
-      </div>
+      <img src="{{ '/assets/images/cover.jpg' | relative_url }} "class="cover">
+      <img src="{{ '/assets/images/logo.jpg' | relative_url }} " class="logo">
       <div class="project-info">
         <h1 class="project-name"><span>{{ site.title | default: site.github.repository_name }}</span></h1>
         <h2 class="project-tagline"><span>{{ site.description | default: site.github.project_tagline }}</span></h2>
