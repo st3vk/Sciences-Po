@@ -81,7 +81,7 @@ html {
 .page-header .project-info {
   display: inline-block;
   position: relative;
-  top: -73px;
+  top: -93px;
   left: 10px;
 }
 .project-info * {
@@ -91,6 +91,8 @@ html {
   text-shadow: 1px 1px black;
 }
 .project-tagline {
+  position: relative;
+  top: 25px;
   color: $section-headings-color;
 }
 
