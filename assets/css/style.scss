@@ -51,10 +51,15 @@ html {
 .page-header {
   margin-top: 0;
   text-align: left;
-  background-image: url('../images/cover.jpg');
-  background-repeat: round;
+  // background-image: url('../images/cover.jpg');
+  // background-repeat: round;
 }
 
+.page-header .cover {
+  width: 100%;
+  margin-bottom: 0;
+  height: 300px;
+}
 .page-header .logo {
   width: 200px;
   height: 200px;
