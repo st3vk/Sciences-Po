@@ -56,19 +56,11 @@ html {
 }
 
 .page-header .cover {
-  width: 100%;
-  // margin-bottom: 0;
+  margin: -5rem -6rem;
+  width: calc(100% + 12rem);
   height: 300px;
 
-  position: fixed;
-  margin: 0 -15px !important;
-  top: 0;
-  left: 0;
   z-index: -1;
-}
-.page-header .cover img {
-  width: calc(100% + 30px);
-  height: 100%;
 }
 
 .page-header .logo {
