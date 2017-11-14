@@ -32,29 +32,27 @@ $hr-border-color: #eff0f1 !default;
   height: 300px;
 }
 
-.btn {
-  color: rgba(255, 255, 255, 1);
-  background-color: rgba(255, 255, 255, 0.8);
-}
-
-.profile-header {
-  margin: -12px -30px 10px -30px;
-  width: calc(100% + 60px);
-}
-.profile-header .cover {
+.page-header .cover {
   width: 100%;
   margin-bottom: 0;
   height: 300px;
 }
-.profile-header .avatar {
+
+.page-header .avatar {
   position: relative;
   top: -150px;
   left: 50px;
   margin-bottom: -200px;
   width: 200px;
   height: 200px;
+  border-radius: 50%;
   background-color: white;
   border: 5px solid white;
+}
+
+.btn {
+  color: rgba(255, 255, 255, 1);
+  background-color: rgba(255, 255, 255, 0.8);
 }
 
 
@@ -62,11 +60,7 @@ $hr-border-color: #eff0f1 !default;
   .navbar {
     margin: -2 -15px 0 -15px;
   }
-  .profile-header {
-    margin: -2px -15px 10px -15px;
-    width: calc(100% + 30px);
-  }
-  .profile-header .avatar {
+  .page-header .avatar {
     position: relative;
     top: -200px;
     left: 15px;
