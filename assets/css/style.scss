@@ -41,11 +41,12 @@ html {
   text-align: left;
   background-image: url('../images/cover.jpg');
   background-repeat: round;
-  width: 33%;
   height: 350px;
 }
 
 .project-info {
+  position: relative;
+  left: 100px;
   text-align: center;
 }
 
