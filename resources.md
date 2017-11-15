@@ -21,7 +21,7 @@ This page shows how to embed resources (images, videos, pdf files) in your pages
 <!-- change data="" and href="" attributes  -->
 <!-- change height="" if needed  -->
 <div class="aspect-ratio power-point">
-  <object data="assets/pdf/powerpoint.pdf" type="application/pdf" width="50%">
+  <object data="assets/pdf/powerpoint.pdf" type="application/pdf">
     <!-- <object data="https://docs.google.com/gview?embedded=true&url=https://thegreattransition.github.io/group00/assets/pdf/powerpoint.pdf"></object> -->
   </object>
 </div>
