@@ -109,10 +109,7 @@ html {
 .aspect-ratio.video {
   padding-bottom: 56.25%;
 }
-.aspect-ratio.document {
-  padding-bottom: 100%;
-}
-.aspect-ratio.power-point {
+.aspect-ratio.document .aspect-ratio.power-point {
   padding-bottom: 75%;
 }
 .aspect-ratio iframe, object {
@@ -156,5 +153,8 @@ html {
     top: 5px;
     padding-bottom: 20px;
     font-size: 1rem;
+  }
+  .aspect-ratio.document {
+    padding-bottom: 140%;
   }
 }
