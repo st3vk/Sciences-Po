@@ -1,5 +1,5 @@
 theme: jekyll-theme-cayman
-title : Group 00
+title: Group 00
 description: A Great Transition project
 menu: [
   {'name': 'Home', 'pagename': 'index'},
