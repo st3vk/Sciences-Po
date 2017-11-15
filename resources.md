@@ -20,8 +20,8 @@ This page shows how to embed resources (images, videos, pdf files) in your pages
 
 <!-- change data="" and href="" attributes  -->
 <!-- change height="" if needed  -->
-<object data="assets/pdf/sample-pdf.pdf" type="application/pdf" width="100%" height="600px">
-  <object width="900" height="900" data="https://docs.google.com/gview?embedded=true&url=http://jimbosjoint.com/assets/img/jimbosmenu.pdf">
+<object data="assets/pdf/sample-pdf.pdf" type="application/pdf" width="100%" height="600">
+  <object width="100%" height="600" data="https://docs.google.com/gview?embedded=true&url=https://thegreattransition.github.io/group00/asassets/pdf/sample-pdf.pdf">
 </object>
 
 </object>
