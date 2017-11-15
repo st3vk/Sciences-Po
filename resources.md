@@ -10,8 +10,9 @@
 
 ## Video embed
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uWSxzjyMNpU" frameborder="0" allowfullscreen></iframe>
-
+<div class="aspect-ratio">
+  <iframe src="https://www.youtube.com/embed/uWSxzjyMNpU" frameborder="0" allowfullscreen="True"></iframe>
+</div>
 
 ## PDF embed
 <object data="assets/sample-pdf.pdf" type="application/pdf" width="100%" height="100%">
