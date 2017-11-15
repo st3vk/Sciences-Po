@@ -12,7 +12,7 @@ This page shows how to embed resources (images, videos, pdf files) in your pages
 ## Video embed
 
 <!-- change src="" attribute  -->
-<div class="aspect-ratio">
+<div class="aspect-ratio video">
   <iframe src="https://www.youtube.com/embed/uWSxzjyMNpU" frameborder="0" allowfullscreen="True"></iframe>
 </div>
 
@@ -20,11 +20,12 @@ This page shows how to embed resources (images, videos, pdf files) in your pages
 
 <!-- change data="" and href="" attributes  -->
 <!-- change height="" if needed  -->
-<object data="assets/pdf/sample-pdf.pdf" type="application/pdf" width="100%" height="600">
-  <object width="100%" height="200" data="https://docs.google.com/gview?embedded=true&url=https://thegreattransition.github.io/group00/assets/pdf/sample-pdf.pdf">
-</object>
+<div class="aspect-ratio document">
+  <object data="assets/pdf/sample-pdf.pdf" type="application/pdf">
+    <object data="https://docs.google.com/gview?embedded=true&url=https://thegreattransition.github.io/group00/assets/pdf/sample-pdf.pdf"></object>
+  </object>
+</div>
 
-</object>
 <!-- <object data="assets/pdf/sample-pdf.pdf" type="application/pdf" width="100%" height="600px">
   <p>This browser does not support PDFs. Please download the PDF from <a href="assets/pdf/sample-pdf.pdf">here</a>!</p>
 </object> -->
