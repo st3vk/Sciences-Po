@@ -26,7 +26,7 @@ This page shows how to embed resources (images, videos, pdf files) in your pages
 </div>
 
 
-or a PowerPoint (saved as .pdf)
+<p>or a PowerPoint (saved as .pdf)</p>
 
 
 <!-- change data="" and href="" attributes  -->
