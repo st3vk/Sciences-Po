@@ -1,10 +1,10 @@
 ## Resources
 
-### Small image
+### Small image (from the web)
 ![](https://pbs.twimg.com/profile_images/903658777295163392/afySJpM5_400x400.jpg)
 
-### Large image
-![](https://pbs.twimg.com/profile_banners/903380300620849153/1504220447/1500x500)
+### Large image (from assets folder)
+![](assets/images/cover.jpg)
 
 ## Video embed
 <!-- change src="" attribute  -->
