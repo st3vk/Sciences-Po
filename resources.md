@@ -17,6 +17,7 @@ This page shows how to embed resources (images, videos, pdf files) in your pages
 </div>
 
 ## PDF embed
+
 <!-- change data="" and href="" attributes  -->
 <div class="aspect-ratio document">
   <object data="assets/pdf/a4.pdf" type="application/pdf">
@@ -24,7 +25,9 @@ This page shows how to embed resources (images, videos, pdf files) in your pages
   </object>
 </div>
 
+
 or a PowerPoint (saved as .pdf)
+
 
 <!-- change data="" and href="" attributes  -->
 <div class="aspect-ratio document">
