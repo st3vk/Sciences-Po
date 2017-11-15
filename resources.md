@@ -13,5 +13,6 @@
 
 ## PDF embed
 <object data="assets/sample-pdf.pdf" type="application/pdf" width="100%" height="600px">
-  <p>Cannot show the embeded pdf file. Instead download from<a href="assets/sample-pdf.pdf">here!</a></p>
+  Something's wrong with showing the pdf file. Instead download from![here.](assets/sample-pdf.pdf)
 </object>
+Something's wrong with showing the pdf file. Instead download from![here.](assets/sample-pdf.pdf)
