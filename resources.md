@@ -20,7 +20,7 @@ This page shows how to embed resources (images, videos, pdf files) in your pages
 
 <!-- change data="" and href="" attributes  -->
 <div class="aspect-ratio document">
-  <object data="assets/pdf/powerpoint.pdf#view=FitV" type="application/pdf">
+  <object data="assets/pdf/powerpoint.pdf#zoom=scale" type="application/pdf">
     <p>This browser does not support PDF! Click <a href="assets/pdf/powerpoint.pdf">here</a> to download the file</p>
   </object>
 </div>
@@ -29,8 +29,7 @@ This page shows how to embed resources (images, videos, pdf files) in your pages
 
 <!-- change data="" and href="" attributes  -->
 <div class="aspect-ratio document">
-  <object data="assets/pdf/a4.pdf" type="application/pdf">
-    <param name="view" value="Fit" />
+  <object data="assets/pdf/a4.pdf#zoom=scale" type="application/pdf">
     <p>This browser does not support PDF! Click <a href="assets/pdf/a4.pdf">here</a> to download the file</p>
   </object>
 </div>
