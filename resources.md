@@ -1,6 +1,6 @@
 ## Resources
 
-### Small image (from the web)
+### Small image (from web)
 ![](https://pbs.twimg.com/profile_images/903658777295163392/afySJpM5_400x400.jpg)
 
 ### Large image (from assets folder)
@@ -15,6 +15,6 @@
 ## PDF embed
 <!-- change data="" and href="" attributes  -->
 <!-- change height="" if needed  -->
-<object data="assets/sample-pdf.pdf" type="application/pdf" width="100%" height="600px">
-  <p>Something's wrong with showing the pdf file. Instead download from <a href="assets/sample-pdf.pdf">here</a>!</p>
+<object data="assets/pdf/sample-pdf.pdf" type="application/pdf" width="100%" height="600px">
+  <p>Something's wrong with showing the pdf file. Instead download from <a href="assets/pdf/sample-pdf.pdf">here</a>!</p>
 </object>
