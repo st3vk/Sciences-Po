@@ -3,7 +3,8 @@
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](resources).
-[Link to external website](http://http://www.sciencespo.fr).
+
+[Link to external website](http://www.sciencespo.fr).
 
 There should be whitespace between paragraphs.
 
