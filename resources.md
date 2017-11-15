@@ -19,19 +19,17 @@ This page shows how to embed resources (images, videos, pdf files) in your pages
 ## PDF embed
 
 <!-- change data="" and href="" attributes  -->
-<!-- use class="aspect-ratio powerpoint" to embed PowerPoints -->
-<div class="aspect-ratio power-point">
+<div class="aspect-ratio document">
   <object data="assets/pdf/powerpoint.pdf#view=FitH" type="application/pdf">
-    <object data="https://docs.google.com/gview?embedded=true&url=https://thegreattransition.github.io/group00/assets/pdf/powerpoint.pdf"></object>
+    <p>This browser does not support PDF! Click <a href="assets/pdf/powerpoint.pdf">here</a> to download the file</p>
   </object>
 </div>
 
 <br>
 
 <!-- change data="" and href="" attributes  -->
-<!-- use class="aspect-ratio document" to embed A4 documents -->
 <div class="aspect-ratio document">
   <object data="assets/pdf/a4.pdf#view=FitH" type="application/pdf">
-    <object data="https://docs.google.com/gview?embedded=true&url=https://thegreattransition.github.io/group00/assets/pdf/a4.pdf"></object>
+    <p>This browser does not support PDF! Click <a href="assets/pdf/a4.pdf">here</a> to download the file</p>
   </object>
 </div>
