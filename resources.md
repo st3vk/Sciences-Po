@@ -25,3 +25,7 @@ This page shows how to embed resources (images, videos, pdf files) in your pages
 </object>
 
 <embed src="assets/pdf/sample-pdf.pdf" type="application/pdf" width="100%" height="600px" alt="pdf">
+
+iframe
+
+<iframe src="http://docs.google.com/gview?url=https://thegreattransition.github.io/group00/assets/pdf/sample-pdf.pdf&embedded=true" style="width:100%; height:600px;" frameborder="0"></iframe>
