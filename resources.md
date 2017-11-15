@@ -23,3 +23,5 @@ This page shows how to embed resources (images, videos, pdf files) in your pages
 <object data="assets/pdf/sample-pdf.pdf" type="application/pdf" width="100%" height="600px">
   <p>Something's wrong with showing the pdf file. Instead download from <a href="assets/pdf/sample-pdf.pdf">here</a>!</p>
 </object>
+
+<embed src="assets/pdf/sample-pdf.pdf" width="100%" height="500" alt="pdf" pluginspage="http://www.adobe.com/products/acrobat/readstep2.html">
