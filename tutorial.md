@@ -26,11 +26,11 @@ Go to your Github repository and you'll find the following files.
 |    |    |-- a4.pdf
 |    |    |-- powerpoint.pdf
 |--  .gitignore
+|--  README.md
 |--  _config.yml
 |--  about.md
 |--  cheatsheet.md
 |--  index.md
-|--  README.md
 |--  resources.md
 |--  tutorial.md
 ```
