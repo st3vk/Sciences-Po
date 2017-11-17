@@ -8,49 +8,52 @@ You can use Markdown in your repository files with the `.md` or `.markdown` exte
 
 Writing what you see in each box will style your text as what follows the box.
 
+### Here's headers
 ```
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+# Header 1
+## Header 2
+### Header 3
+#### Header 4
+##### Header 5
 ```
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+# Header 1
+## Header 2
+### Header 3
+#### Header 4
+##### Header 5
 
-* * *
-
+### Here's paragraphs
 ```
-[Link to another page in your website](resources).
+# This is a header
+This is a normal paragraph following a header.
+This is **not** another paragraph.
 
-[Link to external website](http://www.sciencespo.fr).
+But this is.
+
+There should be whitespace (an empty line) between paragraphs.
 ```
-[Link to another page in your website](resources).
 
-[Link to external website](http://www.sciencespo.fr).
+# This is a header
+This is a normal paragraph following a header.
+This is **not** another paragraph.
 
-* * *
+But this is.
 
 There should be whitespace (an empty line) between paragraphs.
 
-* * *
+
+### Here's text styles
+```
+Text can be **bold**, _italic_, or ~~strikethrough~~.
+```
+Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 ```
-# Header 1
-## Header 2
-### Header 3
-#### Header 4
-##### Header 5
+[Link to another page in your website](resources).
+[Link to external website](http://www.sciencespo.fr).
 ```
-# Header 1
-## Header 2
-### Header 3
-#### Header 4
-##### Header 5
-
-* * *
-
-```
-# This is a header
-This is a normal paragraph following a header.
-```
-# This is a header
-This is a normal paragraph following a header.
+[Link to another page in your website](resources).
+[Link to external website](http://www.sciencespo.fr).
 
 ```
 > This is a blockquote following a header.
@@ -61,25 +64,54 @@ This is a normal paragraph following a header.
 >
 > When something is important enough, you do it even if the odds are not in your favor.
 
-### Header 3
-
-There's a horizontal rule below this.
-
+### Here's a horizontal rule
+```
+* * *
+```
 * * *
 
-#### Header 4
+### Here's an unordered list:
+```
+*  A level 1 item in an unordered list.
+*  A level 1 item.
+*  A level 1 item.
+  *  A level 2 item.
+  *  A level 2 item.
+*  A level 1 item.
+  *  A level 2 item.
+    *  A level 3 item.
+```
+*  A level 1 item in an unordered list.
+*  A level 1 item.
+*  A level 1 item.
+  *  A level 2 item.
+  *  A level 2 item.
+*  A level 1 item.
+  *  A level 2 item.
+    *  A level 3 item.
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
+### Here's an ordered list:
+```
+1.  A level 1 item in an unordered list.
+1.  A level 1 item.
+1.  A level 1 item.
+  1.  A level 2 item.
+  1.  A level 2 item.
+1.  A level 1 item.
+  *  A level 2 item.
+  *  A level 2 item.
+```
+1.  A level 1 item in an unordered list.
+1.  A level 1 item.
+1.  A level 1 item.
+  1.  A level 2 item.
+  1.  A level 2 item.
+1.  A level 1 item.
+  *  A level 2 item.
+  *  A level 2 item.
 
-##### Header 5
 
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
+### Here's a table
 
 | head1        | head two          | three |
 |:-------------|:------------------|:------|
@@ -87,36 +119,6 @@ There's a horizontal rule below this.
 | out of stock | good and plenty   | nice  |
 | ok           | good `oreos`      | hmm   |
 | ok           | good `zoute` drop | yumm  |
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
 
 ```
 The final element.
