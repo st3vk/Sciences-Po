@@ -27,7 +27,7 @@
         <div class="collapse navbar-collapse" id="myNavbar">
           <ul class="nav navbar-nav">
             {% for item in site.menu %}
-              <li><a href="{{ item.pagename }}">{{ item.name }}</a></li>
+              <li><a href="{{ item.pagename | relative_url }}">{{ item.name }}</a></li>
             {% endfor %}
           </ul>
           <ul class="nav navbar-nav navbar-right"></ul>
