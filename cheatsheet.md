@@ -9,31 +9,42 @@ You can use Markdown in your repository files with the `.md` or `.markdown` exte
 ```
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 ```
-
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 
 ```
-[Link to another page](resources).
+[Link to another page in your website](resources).
 
 [Link to external website](http://www.sciencespo.fr).
 ```
-
-[Link to another page](resources).
+[Link to another page in your website](resources).
 
 [Link to external website](http://www.sciencespo.fr).
 
 
+There should be whitespace (an empty line) between paragraphs.
 
-There should be whitespace between paragraphs.
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
+```
 # Header 1
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
 ## Header 2
+### Header 3
+#### Header 4
+##### Header 5
+```
+# Header 1
+## Header 2
+### Header 3
+#### Header 4
+##### Header 5
+
+```
+## Header 2
+This is a normal paragraph following a header.
+```
+## Header 2
+This is a normal paragraph following a header.
+
 
 > This is a blockquote following a header.
 >
