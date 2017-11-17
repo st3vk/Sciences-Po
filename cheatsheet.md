@@ -24,7 +24,7 @@ Writing what you see in each box will style your text as what follows the box.
 
 ### Here's paragraphs
 ```
-# This is a header
+## This is a header
 This is a normal paragraph following a header.
 This is **not** another paragraph.
 
@@ -33,7 +33,7 @@ But this is.
 There should be whitespace (an empty line) between paragraphs.
 ```
 
-# This is a header
+## This is a header
 This is a normal paragraph following a header.
 This is **not** another paragraph.
 
@@ -120,6 +120,7 @@ Text can be **bold**, _italic_, or ~~strikethrough~~.
 | ok           | good `oreos`      | hmm   |
 | ok           | good `zoute` drop | yumm  |
 
+### Here's a box
 ```
 The final element.
 ```
