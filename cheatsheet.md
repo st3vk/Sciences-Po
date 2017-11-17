@@ -49,11 +49,11 @@ Text can be **bold**, _italic_, or ~~strikethrough~~.
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 ```
-[Link to another page in your website](resources).
-[Link to external website](http://www.sciencespo.fr).
+[Link to one of your pages](resources.md).
+[Link to external webpage](http://www.sciencespo.fr).
 ```
-[Link to another page in your website](resources).
-[Link to external website](http://www.sciencespo.fr).
+[Link to one of your pages](resources.md).
+[Link to external webpage](http://www.sciencespo.fr).
 
 ```
 > This is a blockquote following a header.

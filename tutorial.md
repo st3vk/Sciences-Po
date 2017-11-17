@@ -49,8 +49,8 @@ Meanwhile, go to the `assets/images` folder. Once there click on **Upload files*
 Now go back to the root of your repository. You'll notice there are by default a few files with names ending with `.md`. **Each of these files contain the content of one of your website's pages with the same name** (except `README.me`). For example `tutorial.md` is the file behind this current page you are seeing.
 
 Start by editing the `index.md` to change the home page of your website. Head down to:
-*   [Cheat sheet](cheatsheet) to learn how to style your page content.
-*   [Resources](resources) to learn how to put different media on your pages.
+*   [Cheat sheet](cheatsheet.md) to learn how to style your page content.
+*   [Resources](resources.md) to learn how to put different media on your pages.
 
 
 
@@ -67,14 +67,14 @@ There, click on **Create new file** and enter a name (without any space) ending 
 
 To change your website's **menu** (the top navigation bar), open the `_config.yml` file and edit `menu: [...]`.
 
-Look at the existing entries to learn how to create a new one. Each entry is represented by a `{...}`, where `display_name` is the label of the entry and `page_name` is the name of the page that it links to (which is the same as the name without `.md` of a file in the root of your repository.
+Look at the existing entries to learn how to create a new one. Each entry is represented by a `{...}`, where `display_name` is the label of the entry and `page_name` is the name of the page that it links to (which is the same as the name of a file in the root of your repository).
 
 For example, `{"display_name": "Home", "page_name": "index"}` adds Home to the menu which links to the `index` page (created by `index.md` file)
 
 
 * * *
 
-Eventually you'd want to delete `tutorial.md`, `cheatsheet.md`, and `resources.md` from your repository as well as their corresponding entries from the `menu`.
+Eventually you'd want to delete  `Tutorial`, `Cheat Sheet`, and `Resources` from your website's menu. You can also delete the corresponding files (`tutorial.md`, `cheatsheet.md`, and `resources.md`) from your repository.
 
 
 * * *
