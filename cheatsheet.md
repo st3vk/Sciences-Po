@@ -6,8 +6,7 @@ You can use Markdown in your repository files with the `.md` or `.markdown` exte
 
 ## Examples of all the markdowns you'll need!
 
-Writing as what you see in each box will style your text as what follows each box.
-
+Writing what you see in each box will style your text as what follows the box.
 
 ```
 Text can be **bold**, _italic_, or ~~strikethrough~~.
