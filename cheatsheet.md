@@ -1,6 +1,8 @@
 ## This page contains examples of all the markdowns you'll need!
 
-`Text can be **bold**, _italic_, or ~~strikethrough~~.`
+```
+Text can be **bold**, _italic_, or ~~strikethrough~~.
+```
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](resources).
