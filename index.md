@@ -1,5 +1,11 @@
 # Welcome to your project page
 
+This is a place for you to present your project.
+
+Head down to:
+*   [resources](resources) to see different media that you can host
+*   [cheat sheet](cheatsheet) to see different formatting possibilities
+
 You have received an invitation to collaborate on this webpage.
 Assign one member of the group in charge of managing this webpage.
 Make sure to sign up for on account on Github
@@ -21,7 +27,7 @@ for the menu, look at the example provided : name is the name shown on the butto
 You can create more by simply duplicating the existing lines
 make sure to also change the names / create a new page in the root of your repository
 
-Resources: to include a video, juts use the share / embed 
+Resources: to include a video, juts use the share / embed
 
 Upload your own cover.jpg and logo.jpg in the "assets" folder
 
