@@ -30,6 +30,7 @@ Go to your Github repository and you'll find the following files.
 |--  about.md
 |--  cheatsheet.md
 |--  index.md
+|--  README.md
 |--  resources.md
 |--  tutorial.md
 ```
@@ -45,7 +46,7 @@ Meanwhile, go to the `assets/images` folder. Once there click on **Upload files*
 
 ### Change your first page!
 
-Now go back to the root of your repository. You'll notice there are by default five file with names ending with `.md`. **Each of these files contains the content of one of your website's pages with the same name**. For example `tutorial.md` is the file behind this current page you are seeing.
+Now go back to the root of your repository. You'll notice there are by default a few files with names ending with `.md`. **Each of these files contain the content of one of your website's pages with the same name** (except `README.me`). For example `tutorial.md` is the file behind this current page you are seeing.
 
 Start by editing the `index.md` to change the home page of your website. Head down to:
 *   [Cheat sheet](cheatsheet) to learn how to style your page content.
