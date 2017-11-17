@@ -38,7 +38,8 @@ Go to your Github repository and you'll find the following files.
 To start, click on `_config.yml` and click **edit** (the diagonal pencil icon). Once in the edit mode change `title` and `description` to a title and _short_ description for your project. For now, leave `menu` as is. To save your changes scroll down the page and click **Commit changes**.
 
 ```
-Note: Any commit (change in your repository) might take up to a minute to become effective, so be patient.
+Note: Any commit (change in your repository) might take up to a minute to
+become effective, so be patient.
 ```
 
 Meanwhile, go to the `assets/images` folder. Once there click on **Upload files** and upload your own cover and logo images to replace the existing ones. **Note that the file names MUST be `cover.jpg` and `logo.jpg`**.
