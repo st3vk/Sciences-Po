@@ -1,14 +1,18 @@
-# Welcome to your project page
+# Welcome to your project's website!
 
-This is a place for you to present your project.
+This is a place for you to present your project. You can upload images, videos, PDFs here. You can also link to any website you might have already created for your project.  
+
 
 Head down to:
 *   [Resources](resources) to see different media that you can host
 *   [Cheat sheet](cheatsheet) to see different formatting possibilities
 
-You have received an invitation to collaborate on this webpage.
-Assign one member of the group in charge of managing this webpage.
-Make sure to sign up for on account on Github
+## How this works
+
+
+This website is powered by your [Github repository](https://github.com/TheGreatTransition/group1) for which you have received an invitation to collaborate.
+We suggest you to assign one member of your group to be in charge of managing this repository and thus your website. To get started this _tech representative_ of your group needs to accept the invitation to collaborate and sign up for a free account on Github.
+
 
 Start by editing this page
 You can use the cheatsheet page to learn how to use markdown.

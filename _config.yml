@@ -1,9 +1,20 @@
-theme: jekyll-theme-cayman
-title: Group 00
+############################
+### Don't change this :) ###
+theme: jekyll-theme-cayman #
+############################
+
+# type a title and description for your project
+title: Project Title
 description: A Great Transition project
+
+# each {} below will represent an entry in your site's menu (the navigation bar at the top)
+# inside each {} 'display_name' represent the label of the menu item and
+# 'page_name' represents the page that this menu item will link to
+# note that for each page you nead a .md or .html file in hte root folder (besides index.md ...)
 menu: [
-  {'name': 'Home', 'pagename': '/'},
-  {'name': 'Cheat Sheet', 'pagename': 'cheatsheet'},
-  {'name': 'Resources', 'pagename': 'resources'},
-  {'name': 'About us', 'pagename': 'about'},
+  # so this one shows Home in the site menu which will point to a index.md or index.html file.
+  {'display_name': 'Home', 'page_name': 'index'},
+  {'display_name': 'Cheat Sheet', 'page_name': 'cheatsheet'},
+  {'display_name': 'Resources', 'page_name': 'resources'},
+  {'display_name': 'About us', 'page_name': 'about'},
 ]
