@@ -8,9 +8,9 @@ title: Project Title
 description: A Great Transition project
 
 menu: [
-  {'display_name': 'Home', 'page_name': 'index.md'},
-  {'display_name': 'Tutorial', 'page_name': 'tutorial.md'},
-  {'display_name': 'Cheat Sheet', 'page_name': 'cheatsheet.md'},
-  {'display_name': 'Resources', 'page_name': 'resources.md'},
-  {'display_name': 'About us', 'page_name': 'about.md'},
+  {'display_name': 'Home', 'page_name': 'index'},
+  {'display_name': 'Tutorial', 'page_name': 'tutorial'},
+  {'display_name': 'Cheat Sheet', 'page_name': 'cheatsheet'},
+  {'display_name': 'Resources', 'page_name': 'resources'},
+  {'display_name': 'About us', 'page_name': 'about'},
 ]

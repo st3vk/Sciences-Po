@@ -67,7 +67,7 @@ There, click on **Create new file** and enter a name (without any space) ending 
 
 To change your website's **menu** (the top navigation bar), open the `_config.yml` file and edit `menu: [...]`.
 
-Look at the existing entries to learn how to create a new one. Each entry is represented by a `{...}`, where `display_name` is the label of the entry and `page_name` is the name of the page that it links to (which is the same as the name of a file in the root of your repository).
+Look at the existing entries to learn how to create a new one. Each entry is represented by a `{...}`, where `display_name` is the label of the entry and `page_name` is the name of the page that it links to (which is the same as the name without `.md` of a file in the root of your repository).
 
 For example, `{"display_name": "Home", "page_name": "index"}` adds Home to the menu which links to the `index` page (created by `index.md` file)
 
