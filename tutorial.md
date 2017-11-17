@@ -73,4 +73,9 @@ For example, `{"display_name": "Home", "page_name": "index"}` adds Home to the m
 
 
 * * *
+
+Eventually you'd want to delete `tutorial.md`, `cheatsheet.md`, and `resources.md` from your repository as well as their corresponding entries from the `menu`.
+
+
+* * *
 Only if you feel comfortable enough with web development, you should change the structure of the pages in `_layouts/default.html` and the design in `assets/css/style.scss`.
