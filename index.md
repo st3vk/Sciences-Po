@@ -3,8 +3,8 @@
 This is a place for you to present your project.
 
 Head down to:
-*   [resources](resources) to see different media that you can host
-*   [cheat sheet](cheatsheet) to see different formatting possibilities
+*   [Resources](resources) to see different media that you can host
+*   [Cheat sheet](cheatsheet) to see different formatting possibilities
 
 You have received an invitation to collaborate on this webpage.
 Assign one member of the group in charge of managing this webpage.
