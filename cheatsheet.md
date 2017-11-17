@@ -11,6 +11,7 @@ Text can be **bold**, _italic_, or ~~strikethrough~~.
 ```
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
+* * *
 
 ```
 [Link to another page in your website](resources).
@@ -21,9 +22,11 @@ Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to external website](http://www.sciencespo.fr).
 
+* * *
 
 There should be whitespace (an empty line) between paragraphs.
 
+* * *
 
 ```
 # Header 1
@@ -38,14 +41,20 @@ There should be whitespace (an empty line) between paragraphs.
 #### Header 4
 ##### Header 5
 
+* * *
+
 ```
-## Header 2
+# This is a header
 This is a normal paragraph following a header.
 ```
-## Header 2
+# This is a header
 This is a normal paragraph following a header.
 
-
+```
+> This is a blockquote following a header.
+>
+> When something is important enough, you do it even if the odds are not in your favor.
+```
 > This is a blockquote following a header.
 >
 > When something is important enough, you do it even if the odds are not in your favor.
