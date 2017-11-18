@@ -36,7 +36,7 @@ Go to your Github repository and you'll find the following files.
 ```
 
 ### Claim your project's name and image!
-To start, click on `_config.yml` and click **edit** (the diagonal pencil icon). Once in the edit mode change `title` and `description` to a title and _short_ description for your project. For now, leave `menu` as is. To save your changes scroll down the page and click **Commit changes**.
+To start, click on `_config.yml` and click **edit** (the diagonal pencil icon). Once in the edit mode change `title`, `subtitle`, and `description` to a title (up to 5 words) and subtitle (around 10 words) and short description (up to 280 characters) for your project. For now, leave `menu` as is. To save your changes scroll down the page and click **Commit changes**.
 
 > **NOTE:** Any commit (change in your repository) might take up to a minute to become effective, so be patient :)
 
