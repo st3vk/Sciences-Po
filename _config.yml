@@ -7,9 +7,9 @@ theme: jekyll-theme-cayman #
 # title should be less than 5 words
 title: Project Title
 # subtitle should be around 10 words (no more than 15)
-subtitle: A Great Transition project
+subtitle: Project Subtitle
 # description can be up to 280 characters
-description: A Great Transition project
+description: This is a Great Transition project...
 
 menu: [
   {'display_name': 'Home', 'page_name': 'index'},
