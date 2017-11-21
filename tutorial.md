@@ -82,7 +82,6 @@ Eventually you'd want to delete  `Tutorial`, `Cheat Sheet`, and `Resources` from
 
 ## Feeling stylish?
 If you wish to change some basic style elements of your website in `assets/css/style.scss`. There you can change the colors of your headers and text by changing the corresponding variables at the top of the file.
-
 ```
 // Headers
 $header-title-color: white !default;
@@ -96,6 +95,7 @@ $body-text-color: #606c71 !default;
 $body-link-color: #1e6bb8 !default;
 $blockquote-text-color: #819198 !default;
 ```
+You can use [google](https://www.google.fr/search?q=web+color+picker)'s color picker to get the color codes that you want.
 
-
-Only if you feel comfortable enough with web development, you may change the structure of the pages in `_layouts/default.html` and/or make more changes in styles in `assets/css/style.scss`.
+### For Pros
+Only if you feel comfortable enough with web development, you may change the structure of the pages in `_layouts/default.html` and/or make more stylish changes in `assets/css/style.scss`.
