@@ -2,8 +2,8 @@
 ---
 // Headers
 $header-heading-color: #fff !default;
-$header-bg-color: #e6142d !default;
-$header-bg-color-secondary: #155799 !default;
+$header-bg-color: #8b1e2b !default;
+$header-bg-color-secondary: #e6142d !default;
 $header-logo-border-color: black;
 
 // Text
@@ -28,7 +28,7 @@ html {
   margin: 0;
   padding: 0;
   border: none;
-  border-bottom: 1px solid rgba(0,0,0,0.25);
+  border-bottom: 1px solid lightgrey;
   background: #fafafa;
   border-radius: 0;
 }
@@ -40,7 +40,7 @@ html {
   margin: 7.5px;
   width: 35px;
   height: 35px;
-  border: 1px solid rgba(0,0,0,0.25);
+  border: 1px solid lightgrey;
   border-radius: 50%;
 }
 
@@ -48,8 +48,8 @@ html {
   margin: 0;
   padding: 0;
   text-align: left;
-  background-image: none;
-  border-bottom: 1px solid rgba(0,0,0,0.25);
+  // background-image: none;
+  border-bottom: 1px solid lightgrey;
 }
 .page-header .cover {
   width: 100% ;
