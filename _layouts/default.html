@@ -40,8 +40,9 @@
       <div class="content">
         <img src="{{ '/assets/images/logo.jpg' | relative_url }} " class="logo">
         <div class="project-info">
-          <h1 class="project-name">{{ site.title | truncatewords: 5 }}</h1>
-          <h2 class="project-tagline">{{ site.subtitle | truncatewords: 10 }}</h2>
+          <!-- Don't change these ids!!! -->
+          <h1 id="project-title" class="project-name">{{ site.title | truncatewords: 5 }}</h1>
+          <h2 id="project-subtitle" class="project-tagline">{{ site.subtitle | truncatewords: 10 }}</h2>
         </div>
       </div>
     </section>
