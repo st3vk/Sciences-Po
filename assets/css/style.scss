@@ -1,7 +1,8 @@
 ---
 ---
 // Headers
-$header-heading-color: #fff !default;
+$header-title-color: white !default;
+$header-subtitle-color: #e6142d !default;
 $header-bg-color: #8b1e2b !default;
 $header-bg-color-secondary: #e6142d !default;
 $header-logo-border-color: black;
@@ -66,15 +67,13 @@ html {
   top: -115px;
   width: 200px;
   height: 200px;
-  // margin-bottom: -190px;
   border-radius: 50%;
-  border: 5px solid black;
+  border: 5px solid $header-logo-border-color;
 }
 
 .page-header .project-info {
   display: inline-block;
   position: relative;
-  // top: -46px;
   top: -96px;
   left: 10px;
 }
@@ -83,14 +82,15 @@ html {
 }
 
 .project-name {
+  color: $header-title-color;
   text-shadow: 1px 1px black;
   font-size: 3.25rem;
 }
 .project-tagline {
   position: relative;
-  // top: 25px;
   top: 28px;
-  color: $section-headings-color;
+  opacity: 0.9;
+  color: $header-subtitle-color;
 }
 
 .aspect-ratio {
@@ -142,11 +142,12 @@ html {
   .page-header .project-name {
     font-size: 2.75rem;
     color: black;
+    text-shadow: none;
   }
   .page-header .project-tagline {
     position: relative;
-    top: 5px;
-    padding-bottom: 20px;
+    top: 10px;
+    padding-bottom: 30px;
     font-size: 1rem;
   }
   .aspect-ratio.document {
