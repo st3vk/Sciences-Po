@@ -97,5 +97,5 @@ $blockquote-text-color: #819198 !default;
 ```
 You can use [google](https://www.google.fr/search?q=web+color+picker)'s color picker to get the color codes that you want.
 
-### For Pros
+## Feeling like a Pro?
 Only if you feel comfortable enough with web development, you may change the structure of the pages in `_layouts/default.html` and/or make more stylish changes in `assets/css/style.scss`.
