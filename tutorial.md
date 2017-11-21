@@ -4,44 +4,47 @@ Welcome to tutorial where you'll learn how to edit your website. You'll only nee
 
 ## Let's get started!
 
-Your website is powered by your Github repository for which you have received an invitation to collaborate. We suggest you to assign **one member** of your group to be **in charge of managing this repository and your website**. To get started this _tech representative_ of your group needs to accept the invitation and sign up for a free account on Github.
+Your website is powered by your Github repository for which you have received an invitation to collaborate. We suggest you to assign **one member** of your group to be **in charge of managing this repository and your website**. To get started this _tech representative_ of your group needs to have signed up for a free account on Github and to have accepted an invitation to collaborate.
 
 
-Your repository is at `https://github.com/TheGreatTransition/[group_number]` and your website is at `https://thegreattransition.github.io/group[group_number]` where `[group_number]` is the number of your group.
+Your repository is at `https://github.com/TheGreatTransition/[group_id]` and your website is at `https://thegreattransition.github.io/group[group_id]` where `[group_id]` is your group's secret ID.
+
+**Do not share this ID (and your website's address) with others if you wish to protect your project material before the final submission.**
+
 
 
 Go to your Github repository and you'll find the following files.
 ```
-[group_number]
+[group_id]/
 |
-|--  _layout
-|    |--  default.html
-|--  assets
-|    |--  css
-|    |    |-- style.scss
-|    |--  images
-|    |    |-- cover.jpg
-|    |    |-- logo.jpg
-|    |--  pdf
-|    |    |-- a4.pdf
-|    |    |-- powerpoint.pdf
-|--  .gitignore
-|--  README.md
-|--  _config.yml
-|--  about.md
-|--  cheatsheet.md
-|--  index.md
-|--  resources.md
-|--  tutorial.md
+|__  _layout/
+|    |__  default.html
+|__  assets/
+|    |__  css/
+|    |    |__ style.scss
+|    |__  images/
+|    |    |__ cover.jpg
+|    |    |__ logo.jpg
+|    |__  pdf/
+|    |    |__ a4.pdf
+|    |    |__ powerpoint.pdf
+|__  .gitignore
+|__  README.md
+|__  _config.yml
+|__  about.md
+|__  cheatsheet.md
+|__  index.md
+|__  resources.md
+|__  tutorial.md
 ```
 
 ## Claim your project's name and image!
 To start, click on `_config.yml` and click **edit** (the diagonal pencil icon). Once in the edit mode change `title`, `subtitle`, and `description` to a title (up to 5 words) and subtitle (around 10 words) and short description (up to 280 characters) for your project. For now, leave `menu` as is. To save your changes scroll down the page and click **Commit changes**.
 
-> **NOTE:** Any commit (change in your repository) might take up to a minute to become effective, so be patient :)
+> **NOTE: Any commit (change in your repository) might take up to a minute to become effective, so be patient :)**
 
 
-Meanwhile, go to the `assets/images` folder. Once there click on **Upload files** and upload your own cover and logo images to replace the existing ones. **The file names MUST be `cover.jpg` and `logo.jpg`**.
+Meanwhile, go to the `assets/images/` folder. Once there click on **Upload files** and upload your own cover and logo images to replace the existing ones. **The file names MUST be `cover.jpg` and `logo.jpg`**.
 
 
 ## Change your first page!
