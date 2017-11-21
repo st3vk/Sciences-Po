@@ -1,17 +1,11 @@
 ---
 ---
-// Breakpoints
-$large-breakpoint: 64em !default;
-$medium-breakpoint: 42em !default;
-
 // Headers
 $header-heading-color: #fff !default;
-// $header-bg-color: #e6142d !default;
 $header-bg-color: white !default;
 $header-logo-border-color: black;
 
 // Text
-// $section-headings-color: #159957 !default;
 $section-headings-color: #e6142d !default;
 $body-text-color: #606c71 !default;
 $body-link-color: #1e6bb8 !default;
@@ -38,7 +32,7 @@ html {
   border-radius: 0;
 }
 .navbar .navbar-brand {
-  font-size: 14px;
+  font-size: 0.85px;
 }
 .navbar .logo {
   float: left;
@@ -56,12 +50,10 @@ html {
   background-image: none;
   border-bottom: 1px solid rgba(0,0,0,0.25);
 }
-
 .page-header .cover {
   width: 100% ;
   height: 300px;
 }
-
 .page-header .content {
   padding: 0 4rem;
   background: #fafafa;
