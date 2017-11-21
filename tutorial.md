@@ -80,5 +80,22 @@ For example, `{"display_name": "Home", "page_name": "index"}` adds Home to the m
 Eventually you'd want to delete  `Tutorial`, `Cheat Sheet`, and `Resources` from your website's menu. You can also delete the corresponding files (`tutorial.md`, `cheatsheet.md`, and `resources.md`) from your repository.
 
 
-## Feeling adventurous?
-Only if you feel comfortable enough with web development, you may change the structure of the pages in `_layouts/default.html` and the design in `assets/css/style.scss`.
+## Feeling stylish?
+If you wish to change some basic style elements of your website in `assets/css/style.scss`. There you can change the colors of your headers and text by changing the corresponding variables at the top of the file.
+
+```
+// Headers
+$header-title-color: white !default;
+$header-subtitle-color: #e6142d !default;
+$header-bg-color: #e6142d !default;
+$header-logo-border-color: black;
+
+// Text
+$section-headings-color: #e6142d !default;
+$body-text-color: #606c71 !default;
+$body-link-color: #1e6bb8 !default;
+$blockquote-text-color: #819198 !default;
+```
+
+
+Only if you feel comfortable enough with web development, you may change the structure of the pages in `_layouts/default.html` and/or make more changes in styles in `assets/css/style.scss`.
