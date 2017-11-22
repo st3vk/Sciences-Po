@@ -25,6 +25,8 @@ Go to your Github repository and you'll find the following files.
 |    |__  images/
 |    |    |__ cover.jpg
 |    |    |__ logo.jpg
+|    |    |__ profile1.png
+|    |    |__ profile2.png
 |    |__  pdf/
 |    |    |__ a4.pdf
 |    |    |__ powerpoint.pdf
@@ -55,6 +57,8 @@ Start by editing the `index.md` to change the home page of your website. Head do
 *   [Cheat sheet](cheatsheet.md) to learn how to style your page content.
 *   [Resources](resources.md) to learn how to put different media on your pages.
 
+Why not also change `about.md` to personalize your [About us](about.md) page.
+Before editing the image links in there, you need to upload your group members' images in `assets/images/` as you did for cover and logo.
 
 
 ## Create a new page!
