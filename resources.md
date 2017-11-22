@@ -16,9 +16,9 @@ This page shows how to embed resources (images, videos, pdf files) in your pages
 
 ### Image size
 ```
-![](https://pbs.twimg.com/profile_images/903658777295163392/afySJpM5_400x400.jpg){:width="20%"}
+![](assets/images/logo.jpg){:width="20%"}
 ```
-![](https://pbs.twimg.com/profile_images/903658777295163392/afySJpM5_400x400.jpg){:width="20%"}
+![](assets/images/logo.jpg){:width="20%"}
 
 
 ## Embed video (from YouTube)
