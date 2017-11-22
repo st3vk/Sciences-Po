@@ -1,17 +1,24 @@
 ## Resources
 This page shows how to embed resources (images, videos, pdf files) in your pages.
 
-### Small image (from the web)
+### Image from the web
 ```
 ![](https://pbs.twimg.com/profile_images/903658777295163392/afySJpM5_400x400.jpg)
 ```
 ![](https://pbs.twimg.com/profile_images/903658777295163392/afySJpM5_400x400.jpg)
 
-### Large image (from `assets/images` folder)
+### Image from `assets/images/` folder
 ```
 ![](assets/images/cover.jpg)
 ```
 ![](assets/images/cover.jpg)
+
+
+### Image size
+```
+![](https://pbs.twimg.com/profile_images/903658777295163392/afySJpM5_400x400.jpg){:height="50%" width="50%"}
+```
+![](https://pbs.twimg.com/profile_images/903658777295163392/afySJpM5_400x400.jpg){:height="50%" width="50%"}
 
 
 ## Embed video (from YouTube)
