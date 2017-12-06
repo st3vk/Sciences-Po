@@ -5,11 +5,11 @@ theme: jekyll-theme-cayman #
 
 # type a title, subtitle, and a description for your project
 # title should be less than 5 words
-title: Project Title
+title: Fix & Learn
 # subtitle should be around 10 words (no more than 15)
-subtitle: Project Subtitle
+subtitle: Interactive student workshop 
 # description can be up to 280 characters
-description: This is a Great Transition project...
+description: We aim to give the possibility to students to learn by themselves with the help of other students within their university. Ecological and based on human mutual help, Fix&Learn is responding to a general need to help and grow with each other. 
 
 menu: [
   {'display_name': 'Home', 'page_name': 'index'},
