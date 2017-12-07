@@ -1,6 +1,5 @@
-# About us
+# Fix & Learn's Team
 
-#############
 ![](assets/images/profile1.png){:class="avatar"}
 **Elinor Ostrom**
 _elinor.ostrom@example.com_
@@ -47,5 +46,10 @@ _elinor.ostrom@example.com_
 _adam.smith@example.com_
 
 ![](assets/images/jb.png){:class="avatar"}
+**Max Weber**
+_max.weber@example.com_
+
+
+![](assets/images/mathilde.png){:class="avatar"}
 **Max Weber**
 _max.weber@example.com_
