@@ -1,4 +1,4 @@
-# Welcome to Fix&Learn's GitHub 🙂
+# Welcome to Fix & Learn's GitHub 🙂
 
 We really lke GitHub, but we wanted to create a professional website for our project. 
 
