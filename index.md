@@ -1,6 +1,6 @@
 # Welcome to Fix&Learn's GitHub 🙂
 
-We really like this plateform, but we wanted to create a more professional website for our project. 
+We really lke GitHub, but we wanted to create a professional website for our project. 
 
 Just take a look : [Fix&Learn's Website](https://fixandlearn.wixsite.com/fixandlearn) 
 
