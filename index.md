@@ -8,5 +8,5 @@ Just take to ➡️➡️ [our website](https://fixandlearn.wixsite.com/fixandle
 
 ### Created with ❤️ from Sciences Po Paris
 
-Best regards - [La Team Fix&Learn](https://thegreattransition.github.io/group28-9mMyhwrsoz/about) 
+Best regards - [La Team Fix & Learn](https://thegreattransition.github.io/group28-9mMyhwrsoz/about) 
 
