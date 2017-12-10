@@ -13,8 +13,11 @@ description: We aim to give the possibility to students to learn by themselves w
 
 menu: [
   {'display_name': 'Home', 'page_name': 'index'},
-  {'display_name': 'Tutorial', 'page_name': 'tutorial'},
-  {'display_name': 'Cheat Sheet', 'page_name': 'cheatsheet'},
-  {'display_name': 'Resources', 'page_name': 'resources'},
+############################ 
+### Pas besoin de ça... ### 
+### {'display_name': 'Tutorial', 'page_name': 'tutorial'}, ###
+### {'display_name': 'Cheat Sheet', 'page_name': 'cheatsheet'}, ###
+### {'display_name': 'Resources', 'page_name': 'resources'}, ###
+############################
   {'display_name': 'About us', 'page_name': 'about'},
 ]
