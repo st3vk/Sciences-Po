@@ -2,7 +2,7 @@
 
 We really lke GitHub, but we wanted to create a professional website for our project. 
 
-You will find evrything you need to know about it. Enjoy your visit 😉 
+You will find everything you need to know about it. Enjoy your visit 😉 
 
 ➡️➡️ [Fix & Learn's website](https://fixandlearn.wixsite.com/fixandlearn) 
 
