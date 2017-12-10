@@ -4,7 +4,7 @@ We really lke GitHub, but we wanted to create a professional website for our pro
 
 You will find evrything you need to know about it. Enjoy your visit 😉 
 
-Just take to ➡️➡️ [our website](https://fixandlearn.wixsite.com/fixandlearn) 
+➡️➡️ [Fix & Learn's website](https://fixandlearn.wixsite.com/fixandlearn) 
 
 ### Created with ❤️ from Sciences Po Paris
 
