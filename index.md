@@ -1,6 +1,6 @@
 # Welcome to Fix & Learn's GitHub 🙂
 
-We really lke GitHub, but we wanted to create a professional website for our project. 
+We really like GitHub, but we wanted to create a professional website for our project. 
 
 You will find everything you need to know about it. Enjoy your visit 😉 
 
